@@ -1,1 +1,4 @@
-# ًWelcome onboard to my first simple blog
+```bash
+whoami
+Ahmed AlAhmed - Security researcher, CTF player & software engineer.
+```
