@@ -11,7 +11,8 @@ ahmedalahmed@localhost ~ % skills --list --recursive
 - Digital Forensics 
   - CTFs ( CyberTalents )
 - Development Skills
-  - PHP, Python, JAVA, C/C++, JS, NestJS, ReactJS, ExpressJS, Laravel, WordPress, Bash
+  - PHP, Python, JAVA, C/C++, JS, Bash.
+  - NestJS, ReactJS, ExpressJS, Laravel, WordPress.
 - OS
   - Linux, Windows & MacOS
 - Virtualization
